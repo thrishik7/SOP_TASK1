@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 //cloned the repo in my machine
 //created a new branch(SIVA_RAMAN) and commited my changes
