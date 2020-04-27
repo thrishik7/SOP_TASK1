@@ -1,12 +1,4 @@
-$ git clone (url):
-   I used this command to clone the provided repo.
-$ git checkout -b"branch_name": 
-   This command was used to create a new branch with the specified name and switch to that branch.
-$ git add file_name:
-    I used this command to add the required files to a particular branch.
-$ git add .:
-    This command added all the modified and new files in the present directory and made them ready for commit.
-$ git commit -m"message":
-     This command commits changes to the branch.
-$ git status:
-    I used this to check the status of my current branch.
+For an egg to be produced we require two gametes which fertilise to form an egg.
+This only means that there should have been two mates to hav produced that egg.
+We can clearly understand from Darwin's Theory that every organism came from a single cell and evolved.
+Applying that theory, clearly chickens came into being and two sexually mature mates were required for an egg.
