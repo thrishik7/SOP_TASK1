@@ -1,0 +1,5 @@
+ls - to know what files are in the directory you are in
+cd -  to go to a directory
+git init - creates a new Git repository
+git clone - to make a clone or copy of that repo in a new directory, at another location
+these are the commands i have used to do this.
