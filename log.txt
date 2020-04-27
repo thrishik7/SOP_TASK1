@@ -8,5 +8,5 @@
 8. Created text file explaination
 10. Reasearched and answer written.
 11. Created text file one_word
-
+12. Merged branches
 
