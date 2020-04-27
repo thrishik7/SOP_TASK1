@@ -2,4 +2,5 @@
 2. Tutorial: Brushed up on basics about GIT and how to use
 3. Forked and Cloned the repo link provided by mentor to te desktop app.
 4. Created a new branch with my name 
-5. Currently writing the log.txt file.
+5. Wrote initial directions to the log.txt file.
+5. Saved the file to the repo and commited the changes to the current branch
