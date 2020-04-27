@@ -1,0 +1,7 @@
+Forking of the remote git repo
+Git clone <url> command to clone it into the local system
+Git branch maha_rajan -> to create branch 
+Adding two files answer.txt and reason.txt
+Merging the branch(maha_rajan) with the master branch.
+Creating log.txt to put in all the commands used .
+Finally giving a pull request to the forked repo.
