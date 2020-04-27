@@ -1,5 +1,0 @@
-1 Brushed up on Git commands
-2. Forked and Cloned the repo.
-3. Created a new branch with my name 
-4. Wrote about the commands I used in log.txt .
-5. Saved the file to the repo and commited the changes to the current branch.
