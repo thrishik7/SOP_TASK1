@@ -1,0 +1,19 @@
+Git Commands Used In this Task:
+
+1) git clone [url]
+retrieve an entire repository from a hosted location via URL.
+
+2)git branch [branch-name]
+create a new branch at the current commit.
+
+3)git checkout
+switch to another branch and check it out into your working directory.
+
+4)git add [file]
+add a file as it looks now to your next commit (stage).
+
+5)git commit -m “[descriptive message]”
+commit your staged content as a new commit snapshot.
+
+6)git merge [branch]
+merge the specified branch’s history into the current one.
