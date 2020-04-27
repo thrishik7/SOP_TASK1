@@ -1,3 +1,4 @@
 //cloned the repo
-//created new branch(firstname_lastname)
-//created log.txt file
+//created a new branch(firstname_lastname)
+//created log.txt file 
+//created two other branches and text file.
