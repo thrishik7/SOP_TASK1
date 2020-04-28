@@ -2,3 +2,4 @@ created log.txt
 created a branch called oneword
 created a branch called explanation
 updated log.txt
+merged both
