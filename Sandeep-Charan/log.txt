@@ -16,4 +16,19 @@ add a file as it looks now to your next commit (stage).
 commit your staged content as a new commit snapshot.
 
 6)git merge [branch]
-merge the specified branch’s history into the current one.
+
+
+Procedure:
+
+1) Forked and Cloned the repo.
+2) created a branch name Sandeep_Charan.
+3) added empty log.txt.
+
+4) created branch oneword.
+5) Added ans.txt.
+
+6) created branch explain.
+7) Added explain.txt.
+
+8) update log.txt. 
+
