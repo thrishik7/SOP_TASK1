@@ -23,6 +23,11 @@ Procedure:
 1) Forked and Cloned the repo.
 2) created a branch name Sandeep_Charan.
 3) added empty log.txt.
+
 4) created branch oneword.
 5) Added ans.txt.
-6) update log.txt. 
+
+6) created branch explain.
+7) Added explain.txt.
+
+8) update log.txt. 
