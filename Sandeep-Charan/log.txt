@@ -16,7 +16,7 @@ add a file as it looks now to your next commit (stage).
 commit your staged content as a new commit snapshot.
 
 6)git merge [branch]
-merge the specified branch’s history into the current one.
+
 
 Procedure:
 
@@ -31,3 +31,4 @@ Procedure:
 7) Added explain.txt.
 
 8) update log.txt. 
+

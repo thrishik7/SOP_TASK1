@@ -1,0 +1,14 @@
+//cloned the repo in my machine
+//created a new branch(SIVA_RAMAN) and commited my changes
+//created log.txt in that branch and updated.
+// created two other branches from SIVA_RAMAN branch and updated
+//updated log.txt in both the branches respectively(with the answers)
+//merged these to branches to SIVA_RAMAN branch
+//resolved two merge conflict manually while merging branches
+//pulled a request
+
+EGG
+
+
+According to Darwinian principle species evolve over time, states that chickens had ancestors that were not chicken like humans whose close living ansectors are  bonobos and chimpanzees.as chickens are domesticated descendants of red junglefowl and proabaly arose litte more than eight thousands years ago.but first amniote egg(hard-shelled egg) that could be laid on land  was appeared around 312 million years ago.Thus,egg came first
+

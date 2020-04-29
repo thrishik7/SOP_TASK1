@@ -1,0 +1,4 @@
+Added log.txt
+Created a branch for one word ans
+Created branch for reason
+Update log.txt 
