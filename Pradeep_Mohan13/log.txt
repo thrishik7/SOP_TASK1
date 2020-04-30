@@ -1,0 +1,8 @@
+clone       - used to clone remote repository to the local system
+init        - used to initialise the repository
+checkout -b - used to create a branch
+checkout    - used to switch the branch
+add         - used to add a file to a branch
+status      - to check the availability of the files in a branch
+commit      - used to take snapshot of the current state of the file
+merge       - used to merge two different branches into one
