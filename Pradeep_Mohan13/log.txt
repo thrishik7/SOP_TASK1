@@ -1,0 +1,17 @@
+clone       - used to clone remote repository to the local system
+init        - used to initialise the repository
+<<<<<<< HEAD
+cd          - used to written path to the local folder in the system
+=======
+>>>>>>> 1a75536e4b66c991d71b84414340d91b202e24fe
+checkout -b - used to create a branch
+checkout    - used to switch the branch
+add         - used to add a file to a branch
+status      - to check the availability of the files in a branch
+commit      - used to take snapshot of the current state of the file
+<<<<<<< HEAD
+
+
+=======
+merge       - used to merge two different branches into one
+>>>>>>> 1a75536e4b66c991d71b84414340d91b202e24fe
