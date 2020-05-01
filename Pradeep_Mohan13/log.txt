@@ -6,3 +6,5 @@ checkout    - used to switch the branch
 add         - used to add a file to a branch
 status      - to check the availability of the files in a branch
 commit      - used to take snapshot of the current state of the file
+
+
