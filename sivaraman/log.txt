@@ -1,0 +1,7 @@
+//cloned the repo
+//created a new branch(firstname_lastname)
+//created log.txt file 
+//created two other branches and text file.
+//merged these two branches with text file to that branch(firstname_lastname)
+//all changes were commited
+//created a pullrequest 
